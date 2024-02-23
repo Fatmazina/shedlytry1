@@ -30,3 +30,6 @@ class Kernel extends ConsoleKernel
         require base_path('routes/console.php');
     }
 }
+echo "shedly";
+// namespace App\Console;
+// use Illuminate\Console\Command;
